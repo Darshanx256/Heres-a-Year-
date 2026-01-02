@@ -13,4 +13,6 @@ At the bottom, you see how many days are left and how much of the year is alread
 
 *I made this to keep myself reminded: No wait, time's short!*
 
+*[Click here](https://darshanx256.github.io/Heres-a-Year-/) to open it as a web-page.
+
 **Design inspired by [@nathancovey](https://www.threads.net/@nathancovey) on Threads**
