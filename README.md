@@ -7,6 +7,7 @@ When you open it, it turns the entire year into **dots**. One dot for one day. A
 
 - The days you have already spent are **highlighted**.
 - The rest are still **waiting**.
+- Designed for mobile.
 
 At the bottom, you see how many days are left and how much of the year is already gone.
 
